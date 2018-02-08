@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 Connect with github.
+Creating a new branch.
